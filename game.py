@@ -42,7 +42,7 @@ def game():
                 print(f'Диллер выиграл {diller_score}, Игрок проиграл {player_score}')
                 break
         else:
-            print("Диллер перебрал, игрок выиграл")
+            print("Диллер перебрал, Игрок выиграл")
             break
 
 
